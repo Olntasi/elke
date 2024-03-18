@@ -3,4 +3,4 @@ An example of a repository
 
 Created by **Olntasi Olga**
 
-## Thank you##
+## Thank you 
